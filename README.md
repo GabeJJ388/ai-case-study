@@ -41,9 +41,9 @@
 
     * On Vellum.ai an AI comparison site, Sonnet 3.5 (Anthropic's most recent release) scored slightly higher than ChatGPT4, and is the only viable compition so far. 
 
-    ** Accuracy Comparison: Claude 3.5 Sonnet (0.72) does better than GPT-4o (0.65), but GPT-4 has the highest mean absolute score (0.77) when it comes to accuracy.
-    ** Regressions: Despite the overall better performance, Claude 3.5 Sonnet has 5 specific cases where it performs worse than GPT-4o, showing that the model introduced issues in certain areas. However, there are not very significant.
-    ** Improvements: We do see that Claude 3.5 Sonnet shows 12 improvements compared to GPT-4o, which signals that more improvements were achieved than regressions. More research and working with the prompt is needed here to eliminate the regressions but maintain these           improvements. GPT-4 however had the most improvements when compared to GPT-4o.
+    * Accuracy Comparison: Claude 3.5 Sonnet (0.72) does better than GPT-4o (0.65), but GPT-4 has the highest mean absolute score (0.77) when it comes to accuracy.
+       Regressions: Despite the overall better performance, Claude 3.5 Sonnet has 5 specific cases where it performs worse than GPT-4o, showing that the model introduced issues in certain areas. However, there are not very significant.
+    * Improvements: We do see that Claude 3.5 Sonnet shows 12 improvements compared to GPT-4o, which signals that more improvements were achieved than regressions. More research and working with the prompt is needed here to eliminate the regressions but maintain these           improvements. GPT-4 however had the most improvements when compared to GPT-4o.
 
 ## Recommendations
 
