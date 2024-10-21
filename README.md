@@ -2,9 +2,9 @@
 
 # Anthropic, Safe AI for Everyone
 
-## Overview and Origin
+## Overview and Origin: 
 
-* ### Anthropic PBC and it's humble beginnings.
+### Anthropic PBC and it's humble beginnings.
 
 * According to Time's 100 Most Influential Companies of 2024, the Co-Founder and CEO of Athropic, Dario Amodei was set to launch the first open source AI for public use in 2022, only 2 years after the company's creation.
 
@@ -17,7 +17,7 @@
 ## Business Activities
 
 * The goal of Anthropic was to avoid a race to the top that could be irresponsible and dangerous to the development of human society and perhaps technological evolution. As Amodei was quoted saying in Time.com:
-* >“We’re not trying to say we’re the good guys and the others are the bad guys,” Amodei says. “We’re trying to pull the ecosystem in a direction where everyone can be the good guy.”
+* >“We’re not trying to say we’re the good guys and the others are the bad guys,” Amodei says. “We’re trying to pull the ecosystem in a direction where everyone can be the good guy.” Dario Amodei **(Time.com)**
 
 * The market share of _Claude_ is only at 0.13% compared to Chat GPT's 17.5%. But this does not speak for the quality of the platform, the answers by _Claude_ vs. ChatGPT are easier to digest, give many more warnings on AI assumed information, give plenty of warnings and cautions on facts vs. newly generated neuro processes **(6sense.com)**. ChatGPT will allow very morally disturbing questions to be answered for examples questions how to manipulate other people psychologically, or even advice on types of torture. _Claude_ has safeguards against those morally questionable inquiries.
 
@@ -54,3 +54,13 @@
 * As mentioned before schools of all ranges could use this software, as well as it being the main AI used in professional settings. Their branding could be done to reflect something of the sort. Nothing intimidating but something as fresh as the chrome logo would be instrumental in cementing their place in high AI social settings.
 
 * What I am suggesting does not take much more research, designing, and testing as they have already done. But the fact that they are at .13% compared to ChatGPT's 17.5% market prevalence is sad, and not a testimony of the work they have done at Anthropic or the potential the company and product have. I believe the solution to be a marketing faux pas that can be easily corrected. Once done corretly, the hard work happening at Anthropic will surely be appreciated. I can't wait to see the development of this intelligence race.
+
+  ## Sources
+
+  * ([Time.com](https://time.com/6980000/anthropic/))
+  * ([Builtin.com](https://builtin.com/articles/anthropic))
+  * ([Anthropic.com](https://www.anthropic.com/news/claudes-constitution))
+  * ([6sense.com](https://6sense.com/tech/artificial-intelligence/claude-by-anthropic-market-share))
+  * ([zapier.com](https://zapier.com/blog/best-ai-chatbot/))
+  * ([artificialanalysis.ai](https://artificialanalysis.ai/providers/anthropic))
+  * Honerable mentions of coding assistance (Tutoring with): Lindelwe Myeza
